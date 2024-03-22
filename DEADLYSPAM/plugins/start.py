@@ -10,23 +10,23 @@ ALIVE_IMG = config.ALIVE_PIC
 if config.ALIVE_PIC:
     DEADLY_IMG = ALIVE_IMG
 else:
-    DEADLY_IMG = "https://graph.org/file/bf5ebe363845094c47512.jpg"
+    DEADLY_IMG = "https://te.legra.ph/file/fe30713ae60ec3fe82cb2.jpg"
 
 OWNER_INFO = config.OWNER_NAME
 if config.OWNER_NAME:
     OWNER_NAME = OWNER_INFO
 else:
-    OWNER_NAME = "AKASH"
+    OWNER_NAME = "WHITE DEVIL KING"
 
 OWNER_ID = config.OWNER_ID
 
 Deadly_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/AK_BOTS_TAME"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/AK_BOTS_TAME")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/dil_ki_baatee"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/heart_talkz")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://t.me/AK_BOTS_TAME")
+        Button.url("• Rᴇᴘᴏ •", "https://t.me/whitehell011")
         ]
         ]
         
@@ -50,7 +50,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[『Akash』|](tg://user?id={6065568342})"
+        creator = f"[WHITE DEVIL KING](tg://user?id={5970819176})"
         DEADLY_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs ᴋɪɴɢ x ᴛᴇᴀᴍ ᴀᴋ sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
