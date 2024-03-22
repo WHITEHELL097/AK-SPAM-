@@ -2,7 +2,7 @@
 {
     "name": "Ak-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://graph.org/file/bf5ebe363845094c47512.jpg",
+    "logo": "https://te.legra.ph/file/fe30713ae60ec3fe82cb2.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -10,8 +10,8 @@
         "deadlybot",
         "SpamBots"
     ],
-    "repository": "https://github.com/Akash8t2/AK-SPAM",
-    "website": "https://t.me/AK_BOTS_TAME",
+    "repository": "https://github.com/WHITEHELL097/AK-SPAM-",
+    "website": "https://t.me/whitehell011",
     "success_url": "https://t.me/AK_BOTS_TAME",
     "env": {
              "API_ID": {
@@ -21,7 +21,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://graph.org/file/bf5ebe363845094c47512.jpg",
+        "value": "https://te.legra.ph/file/fe30713ae60ec3fe82cb2.jpg",
         "required": false
       },
       "API_HASH": {
